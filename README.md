@@ -1,10 +1,6 @@
 🪙 Conversor de Moedas – Projeto Java
 📌 Descrição
 
-Neste emocionante desafio de programação, você construirá o seu próprio Conversor de Moedas em Java!
-
-O objetivo é aprender, de forma prática e divertida, como:
-
 Fazer requisições HTTP para uma API real de taxas de câmbio;
 
 Manipular e interpretar dados JSON;
